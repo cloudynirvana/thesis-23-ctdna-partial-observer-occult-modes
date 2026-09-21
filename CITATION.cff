@@ -1,0 +1,44 @@
+cff-version: 1.2.0
+message: "If you cite this computational research thesis, please use the metadata below. No DOI is minted here; do not invent one."
+type: thesis
+title: "Liquid-biopsy-style partial observation maps for hybrid occult residual-disease modes"
+authors:
+  - family-names: Ogbonna
+    given-names: Kelechi Emeka
+    email: kelechiogbonna300@gmail.com
+    alias: cloudynirvana
+abstract: >-
+  Given a hybrid (switching) occult residual-disease model, which
+  liquid-biopsy-style sparse observation maps can distinguish mode occupancy
+  versus remaining blind to switches — as an observation-operator question,
+  not as a diagnostic device claim? On a toy with an exogenous mode and a
+  scalar count, quiescence and angiogenic pause share the count. A
+  constant-coefficient map cannot see the switch between them. A two-channel
+  turnover map on a coarse clock misses a short proliferative dwell. The same
+  map on a fine clock recovers the switch times at a declared noise level and
+  loses that recovery as false switches accumulate. Synthetic ctDNA-like
+  series only. Not a validated assay. Not a medical device.
+keywords:
+  - observation operator
+  - hybrid switching
+  - liquid biopsy
+  - ctDNA
+  - occult residual disease
+  - mode occupancy
+  - toy model
+  - identifiability
+  - research-only
+license: MIT
+date-released: "2026-09-21"
+url: "https://github.com/cloudynirvana/thesis-23-ctdna-partial-observer-occult-modes"
+repository-code: "https://github.com/cloudynirvana/thesis-23-ctdna-partial-observer-occult-modes"
+preferred-citation:
+  type: thesis
+  title: "Liquid-biopsy-style partial observation maps for hybrid occult residual-disease modes"
+  authors:
+    - family-names: Ogbonna
+      given-names: Kelechi Emeka
+  year: 2026
+  month: 9
+  url: "https://github.com/cloudynirvana/thesis-23-ctdna-partial-observer-occult-modes"
+  notes: "Thesis #23. Computational research. Synthetic ctDNA-like series, not an assay. No document DOI."
